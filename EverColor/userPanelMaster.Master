@@ -1,0 +1,93 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="userPanelMaster.Master.cs" Inherits="Demo.userPanelMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/userMaster.css" rel="stylesheet" />
+    <link href="css/common.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="bg-color col-md-2 col-lg-2 hidden-xs hidden-sm" style="height: 100%;padding:0;" id="nav-info">
+        <div style="user-select:none;height:50px;line-height:50px;margin-left:15px;">用户后台</div>
+        <ul class="nav nav-pills nav-stacked left-nav">
+            <li role="presentation" class="active"><a href="#">
+                首页
+                <i class="glyphicon glyphicon-home pull-right"></i></a></li>
+            <li role="presentation"><a href="#">
+                账户信息
+                <i class="glyphicon glyphicon-yen pull-right"></i></a></li>
+            <li role="presentation"><a href="#">
+                历史投注
+                <i class="glyphicon glyphicon-time pull-right"></i></a></li>
+        </ul>
+    </div>
+    <%--内容--%>
+    <form class="col-md-10 col-lg-10 col-xs-12 col-sm-12 no-padding" id="form1" runat="server">
+        <div class="navbar navbar-default no-radius bg-color no-border" style="width:100%;">
+            <%--右侧--%>
+            <div class="pull-right col-md-2 dropdown">
+                <a href="javascript:void(0);" class="nav-center text-center dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                    测试用户名
+                    <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu" style="right:unset;" aria-labelledby="dropdownMenu1">
+                    <li><a href="#" data-target="#changePwd" data-toggle="modal">修改密码</a></li>
+                    <li role="separator" class="divider"></li>
+                    <li><a href="#">注销</a></li>
+                </ul>
+            </div>
+        </div>
+        <%--修改密码--%>
+        <div class="modal fade" tabindex="-1" id="changePwd" role="dialog" aria-labelledby="changePwd">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title">修改密码</h4>
+                  </div>
+                    <div class="modal-body">
+                        <%--旧密码--%>
+                        <label class="input-group input-group-lg">
+                            <span class="input-group-addon">
+                                <i class="glyphicon glyphicon-lock" aria-hidden="true"></i>
+                            </span>
+                            <input type="password" placeholder="请输入旧密码" class="form-control" aria-describedby="username" />
+                        </label>
+                        <%--新密码--%>
+                        <label class="input-group input-group-lg">
+                            <span class="input-group-addon">
+                                <i class="glyphicon glyphicon-lock" aria-hidden="true"></i>
+                            </span>
+                            <input type="password" placeholder="请输入新密码" class="form-control" aria-describedby="password" />
+                        </label>
+                        <%--再次输入密码--%>
+                        <label class="input-group input-group-lg">
+                            <span class="input-group-addon">
+                                <i class="glyphicon glyphicon-lock" aria-hidden="true"></i>
+                            </span>
+                            <input type="password" placeholder="请再次输入新密码" class="form-control" aria-describedby="password" />
+                        </label>
+                    </div>
+                  <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
+                      <button type="button" class="btn btn-primary">修改</button>
+                  </div>
+                </div>
+            </div>
+        </div>
+        <div style="display:table;margin:0 auto;">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

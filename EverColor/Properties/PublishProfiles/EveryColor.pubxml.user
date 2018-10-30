@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\EveryColor</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="admin/adminPanel.aspx">
+      <publishTime>09/26/2018 16:45:08</publishTime>
+    </File>
+    <File Include="admin/css/bootstrap.css">
+      <publishTime>09/06/2018 23:04:35</publishTime>
+    </File>
+    <File Include="admin/css/common.css">
+      <publishTime>09/12/2018 16:49:41</publishTime>
+    </File>
+    <File Include="admin/css/index.css">
+      <publishTime>09/10/2018 14:19:33</publishTime>
+    </File>
+    <File Include="admin/css/userMaster.css">
+      <publishTime>09/12/2018 16:42:20</publishTime>
+    </File>
+    <File Include="admin/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/06/2018 23:04:35</publishTime>
+    </File>
+    <File Include="admin/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/06/2018 23:04:35</publishTime>
+    </File>
+    <File Include="admin/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/06/2018 23:04:35</publishTime>
+    </File>
+    <File Include="admin/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/06/2018 23:04:35</publishTime>
+    </File>
+    <File Include="admin/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>09/06/2018 23:04:35</publishTime>
+    </File>
+    <File Include="admin/js/bootstrap.js">
+      <publishTime>09/06/2018 23:04:35</publishTime>
+    </File>
+    <File Include="admin/js/jquery-1.10.2.js">
+      <publishTime>09/06/2018 23:04:35</publishTime>
+    </File>
+    <File Include="admin/registerSecondUser.aspx">
+      <publishTime>09/12/2018 18:45:46</publishTime>
+    </File>
+    <File Include="admin/registerUser.aspx">
+      <publishTime>09/12/2018 18:39:01</publishTime>
+    </File>
+    <File Include="admin/UserAccount.aspx">
+      <publishTime>09/26/2018 10:09:58</publishTime>
+    </File>
+    <File Include="admin/userPanelAdmin.Master">
+      <publishTime>09/12/2018 16:47:28</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>09/07/2018 17:33:39</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.UI.Combined.dll">
+      <publishTime>09/07/2018 17:33:39</publishTime>
+    </File>
+    <File Include="bin/BLL.dll">
+      <publishTime>10/04/2018 15:41:51</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>10/04/2018 15:41:51</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.AspNet.dll">
+      <publishTime>09/07/2018 17:33:40</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.Core.dll">
+      <publishTime>09/07/2018 17:33:41</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.Consumer.dll">
+      <publishTime>09/07/2018 17:33:40</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.dll">
+      <publishTime>09/07/2018 17:33:40</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.dll">
+      <publishTime>09/07/2018 17:33:40</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.RelyingParty.dll">
+      <publishTime>09/07/2018 17:33:40</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>09/07/2018 17:33:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>09/07/2018 17:33:43</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Membership.OpenAuth.dll">
+      <publishTime>09/07/2018 17:33:43</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/08/2013 15:15:09</publishTime>
+    </File>
+    <File Include="bin/Model.dll">
+      <publishTime>10/04/2018 15:41:51</publishTime>
+    </File>
+    <File Include="bin/Simplemaster.dll">
+      <publishTime>10/04/2018 15:41:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>09/07/2018 17:33:39</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>10/04/2018 15:42:46</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll.config">
+      <publishTime>10/11/2018 16:41:58</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>09/05/2018 21:40:34</publishTime>
+    </File>
+    <File Include="css/common.css">
+      <publishTime>09/09/2018 14:40:20</publishTime>
+    </File>
+    <File Include="css/index.css">
+      <publishTime>09/12/2018 17:15:30</publishTime>
+    </File>
+    <File Include="css/userMaster.css">
+      <publishTime>09/06/2018 16:33:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/05/2018 21:40:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/05/2018 21:40:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/05/2018 21:40:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/05/2018 21:40:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>09/05/2018 21:40:34</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>10/04/2018 11:57:01</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>09/05/2018 21:40:34</publishTime>
+    </File>
+    <File Include="js/Index_js.js">
+      <publishTime>09/17/2018 21:29:05</publishTime>
+    </File>
+    <File Include="js/jquery-2.1.4.min.js">
+      <publishTime>09/06/2018 11:05:27</publishTime>
+    </File>
+    <File Include="js/time.js">
+      <publishTime>10/03/2018 10:06:50</publishTime>
+    </File>
+    <File Include="userPanel.aspx">
+      <publishTime>09/07/2018 18:34:53</publishTime>
+    </File>
+    <File Include="userPanel.Master">
+      <publishTime>09/07/2018 18:34:53</publishTime>
+    </File>
+    <File Include="userPanelMaster.Master">
+      <publishTime>09/07/2018 18:34:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/11/2018 16:42:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

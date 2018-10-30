@@ -1,0 +1,11 @@
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Release\Simplemaster.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Release\Simplemaster.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Release\DAL.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Release\Model.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Release\DAL.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Release\Model.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Release\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\obj\Release\Simplemaster.csprojResolveAssemblyReference.cache
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\obj\Release\Simplemaster.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\obj\Release\Simplemaster.pdb

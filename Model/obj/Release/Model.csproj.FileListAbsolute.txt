@@ -1,0 +1,4 @@
+C:\Users\zmx87\Desktop\new\EveryColor\Model\bin\Release\Model.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Model\bin\Release\Model.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\Model\obj\Release\Model.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Model\obj\Release\Model.pdb

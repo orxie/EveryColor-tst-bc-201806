@@ -1,0 +1,27 @@
+﻿.second-nav-show > .display-none{
+    display:none;
+}
+
+.second-nav > li > a{
+    padding-left:40px;
+}
+.second-nav-show:hover > .display-none {
+    display:block;
+}
+@media screen and (min-width:992px){
+    .pull-right>.dropdown-menu{
+        right:unset;
+    }
+    .dropdown-menu > .unright{
+        right:unset;
+    }
+    .navbar-collapse.collapse{
+        display:none !important;
+        height: auto !important;
+        padding-bottom: 0;
+        overflow: visible !important;
+    }
+}
+.top-kx{
+    margin-top:20px;
+}

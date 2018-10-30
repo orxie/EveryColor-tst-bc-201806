@@ -1,0 +1,14 @@
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\WebApplication1.dll.config
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\WebApplication1.dll
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\WebApplication1.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\BLL.dll
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\Model.dll
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\Simplemaster.dll
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\DAL.dll
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\BLL.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\Model.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\Simplemaster.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\DAL.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\obj\Release\EverColor.csprojResolveAssemblyReference.cache
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\obj\Release\WebApplication1.dll
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\obj\Release\WebApplication1.pdb

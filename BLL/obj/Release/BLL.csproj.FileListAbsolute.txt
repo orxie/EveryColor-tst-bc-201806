@@ -1,0 +1,9 @@
+C:\Users\zmx87\Desktop\new\EveryColor\BLL\bin\Release\BLL.dll
+C:\Users\zmx87\Desktop\new\EveryColor\BLL\bin\Release\BLL.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\BLL\bin\Release\DAL.dll
+C:\Users\zmx87\Desktop\new\EveryColor\BLL\bin\Release\Model.dll
+C:\Users\zmx87\Desktop\new\EveryColor\BLL\bin\Release\DAL.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\BLL\bin\Release\Model.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\zmx87\Desktop\new\EveryColor\BLL\obj\Release\BLL.dll
+C:\Users\zmx87\Desktop\new\EveryColor\BLL\obj\Release\BLL.pdb

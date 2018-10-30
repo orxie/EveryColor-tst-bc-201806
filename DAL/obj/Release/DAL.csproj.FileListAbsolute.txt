@@ -1,0 +1,7 @@
+C:\Users\zmx87\Desktop\new\EveryColor\DAL\bin\Release\DAL.dll
+C:\Users\zmx87\Desktop\new\EveryColor\DAL\bin\Release\DAL.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\DAL\bin\Release\Model.dll
+C:\Users\zmx87\Desktop\new\EveryColor\DAL\bin\Release\Model.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\zmx87\Desktop\new\EveryColor\DAL\obj\Release\DAL.dll
+C:\Users\zmx87\Desktop\new\EveryColor\DAL\obj\Release\DAL.pdb

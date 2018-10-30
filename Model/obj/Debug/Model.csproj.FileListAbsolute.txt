@@ -1,0 +1,35 @@
+D:\大学期间项目\Every Color\Model\bin\Debug\Model.dll
+D:\大学期间项目\Every Color\Model\bin\Debug\Model.pdb
+D:\大学期间项目\Every Color\Model\obj\Debug\Model.dll
+D:\大学期间项目\Every Color\Model\obj\Debug\Model.pdb
+C:\Users\13393\Desktop\Every Color\Model\bin\Debug\Model.dll
+C:\Users\13393\Desktop\Every Color\Model\bin\Debug\Model.pdb
+C:\Users\13393\Desktop\Every Color\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\13393\Desktop\Every Color\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\13393\Desktop\Every Color\Model\obj\Debug\Model.dll
+C:\Users\13393\Desktop\Every Color\Model\obj\Debug\Model.pdb
+C:\Users\13393\Desktop\Every Color (1)\Model\bin\Debug\Model.dll
+C:\Users\13393\Desktop\Every Color (1)\Model\bin\Debug\Model.pdb
+C:\Users\13393\Desktop\Every Color (1)\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\13393\Desktop\Every Color (1)\Model\obj\Debug\Model.dll
+C:\Users\13393\Desktop\Every Color (1)\Model\obj\Debug\Model.pdb
+C:\Users\orxie\Desktop\EveryColor\Model\bin\Debug\Model.dll
+C:\Users\orxie\Desktop\EveryColor\Model\bin\Debug\Model.pdb
+C:\Users\orxie\Desktop\EveryColor\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\orxie\Desktop\EveryColor\Model\obj\Debug\Model.dll
+C:\Users\orxie\Desktop\EveryColor\Model\obj\Debug\Model.pdb
+C:\Users\13393\Desktop\new\EveryColor\Model\bin\Debug\Model.dll
+C:\Users\13393\Desktop\new\EveryColor\Model\bin\Debug\Model.pdb
+C:\Users\13393\Desktop\new\EveryColor\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\13393\Desktop\new\EveryColor\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\13393\Desktop\new\EveryColor\Model\obj\Debug\Model.dll
+C:\Users\13393\Desktop\new\EveryColor\Model\obj\Debug\Model.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\Model\bin\Debug\Model.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Model\bin\Debug\Model.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\Model\obj\Debug\Model.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Model\obj\Debug\Model.pdb
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Model\bin\Debug\Model.dll
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Model\bin\Debug\Model.pdb
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Model\obj\Debug\Model.dll
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Model\obj\Debug\Model.pdb

@@ -1,0 +1,25 @@
+﻿@charset "utf-8";
+
+.nav-text {
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+    .nav-text:hover,
+    .nav-text:focus {
+        text-decoration: none;
+    }
+
+.margin-divider {
+    margin-bottom: 20px;
+}
+.table th, .table td {
+text-align: center;
+vertical-align: middle!important;
+}
+.table {
+border:0px;
+}
+

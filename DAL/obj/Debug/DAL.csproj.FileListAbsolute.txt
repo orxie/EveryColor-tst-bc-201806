@@ -1,0 +1,71 @@
+D:\大学期间项目\Every Color\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\大学期间项目\Every Color\DAL\bin\Debug\DAL.dll
+D:\大学期间项目\Every Color\DAL\bin\Debug\DAL.pdb
+D:\大学期间项目\Every Color\DAL\bin\Debug\Model.dll
+D:\大学期间项目\Every Color\DAL\bin\Debug\Model.pdb
+D:\大学期间项目\Every Color\DAL\obj\Debug\DAL.dll
+D:\大学期间项目\Every Color\DAL\obj\Debug\DAL.pdb
+C:\Users\13393\Desktop\Every Color\DAL\bin\Debug\DAL.dll
+C:\Users\13393\Desktop\Every Color\DAL\bin\Debug\DAL.pdb
+C:\Users\13393\Desktop\Every Color\DAL\bin\Debug\Model.dll
+C:\Users\13393\Desktop\Every Color\DAL\bin\Debug\Model.pdb
+C:\Users\13393\Desktop\Every Color\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\13393\Desktop\Every Color\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\13393\Desktop\Every Color\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\13393\Desktop\Every Color\DAL\obj\Debug\DAL.dll
+C:\Users\13393\Desktop\Every Color\DAL\obj\Debug\DAL.pdb
+C:\Users\orxie\Desktop\Every Color\DAL\bin\Debug\DAL.dll
+C:\Users\orxie\Desktop\Every Color\DAL\bin\Debug\DAL.pdb
+C:\Users\orxie\Desktop\Every Color\DAL\bin\Debug\Model.dll
+C:\Users\orxie\Desktop\Every Color\DAL\bin\Debug\Model.pdb
+C:\Users\orxie\Desktop\Every Color\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\orxie\Desktop\Every Color\DAL\obj\Debug\DAL.dll
+C:\Users\orxie\Desktop\Every Color\DAL\obj\Debug\DAL.pdb
+C:\Users\13393\Desktop\Every Color (1)\DAL\bin\Debug\DAL.dll
+C:\Users\13393\Desktop\Every Color (1)\DAL\bin\Debug\DAL.pdb
+C:\Users\13393\Desktop\Every Color (1)\DAL\bin\Debug\Model.dll
+C:\Users\13393\Desktop\Every Color (1)\DAL\bin\Debug\Model.pdb
+C:\Users\13393\Desktop\Every Color (1)\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\13393\Desktop\Every Color (1)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\13393\Desktop\Every Color (1)\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\13393\Desktop\Every Color (1)\DAL\obj\Debug\DAL.dll
+C:\Users\13393\Desktop\Every Color (1)\DAL\obj\Debug\DAL.pdb
+C:\Users\orxie\Desktop\EveryColor\DAL\bin\Debug\DAL.dll
+C:\Users\orxie\Desktop\EveryColor\DAL\bin\Debug\DAL.pdb
+C:\Users\orxie\Desktop\EveryColor\DAL\bin\Debug\Model.dll
+C:\Users\orxie\Desktop\EveryColor\DAL\bin\Debug\Model.pdb
+C:\Users\orxie\Desktop\EveryColor\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\orxie\Desktop\EveryColor\DAL\obj\Debug\DAL.dll
+C:\Users\orxie\Desktop\EveryColor\DAL\obj\Debug\DAL.pdb
+C:\Users\13393\Desktop\new\EveryColor\DAL\bin\Debug\DAL.dll
+C:\Users\13393\Desktop\new\EveryColor\DAL\bin\Debug\DAL.pdb
+C:\Users\13393\Desktop\new\EveryColor\DAL\bin\Debug\Model.dll
+C:\Users\13393\Desktop\new\EveryColor\DAL\bin\Debug\Model.pdb
+C:\Users\13393\Desktop\new\EveryColor\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\13393\Desktop\new\EveryColor\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\13393\Desktop\new\EveryColor\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\13393\Desktop\new\EveryColor\DAL\obj\Debug\DAL.dll
+C:\Users\13393\Desktop\new\EveryColor\DAL\obj\Debug\DAL.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\DAL\bin\Debug\DAL.dll
+C:\Users\zmx87\Desktop\new\EveryColor\DAL\bin\Debug\DAL.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\DAL\bin\Debug\Model.dll
+C:\Users\zmx87\Desktop\new\EveryColor\DAL\bin\Debug\Model.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\zmx87\Desktop\new\EveryColor\DAL\obj\Debug\DAL.dll
+C:\Users\zmx87\Desktop\new\EveryColor\DAL\obj\Debug\DAL.pdb
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\DAL\bin\Debug\DAL.dll
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\DAL\bin\Debug\DAL.pdb
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\DAL\bin\Debug\Model.dll
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\DAL\bin\Debug\Model.pdb
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\DAL\obj\Debug\DAL.dll
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\DAL\obj\Debug\DAL.pdb
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\DAL\bin\Debug\DAL.dll
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\DAL\bin\Debug\DAL.pdb
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\DAL\bin\Debug\Model.dll
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\DAL\bin\Debug\Model.pdb
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\DAL\obj\Debug\DAL.dll
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\DAL\obj\Debug\DAL.pdb

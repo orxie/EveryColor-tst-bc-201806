@@ -1,0 +1,65 @@
+C:\Users\orxie\Desktop\Simplemaster\Simplemaster\bin\Debug\Simplemaster.dll
+C:\Users\orxie\Desktop\Simplemaster\Simplemaster\bin\Debug\Simplemaster.pdb
+C:\Users\orxie\Desktop\Simplemaster\Simplemaster\bin\Debug\DAL.dll
+C:\Users\orxie\Desktop\Simplemaster\Simplemaster\bin\Debug\Model.dll
+C:\Users\orxie\Desktop\Simplemaster\Simplemaster\bin\Debug\DAL.pdb
+C:\Users\orxie\Desktop\Simplemaster\Simplemaster\bin\Debug\Model.pdb
+C:\Users\orxie\Desktop\Simplemaster\Simplemaster\obj\Debug\Simplemaster.csprojResolveAssemblyReference.cache
+C:\Users\orxie\Desktop\Simplemaster\Simplemaster\obj\Debug\Simplemaster.dll
+C:\Users\orxie\Desktop\Simplemaster\Simplemaster\obj\Debug\Simplemaster.pdb
+C:\Users\13393\Desktop\Simplemaster\Simplemaster\bin\Debug\Simplemaster.dll
+C:\Users\13393\Desktop\Simplemaster\Simplemaster\bin\Debug\Simplemaster.pdb
+C:\Users\13393\Desktop\Simplemaster\Simplemaster\bin\Debug\DAL.dll
+C:\Users\13393\Desktop\Simplemaster\Simplemaster\bin\Debug\Model.dll
+C:\Users\13393\Desktop\Simplemaster\Simplemaster\bin\Debug\DAL.pdb
+C:\Users\13393\Desktop\Simplemaster\Simplemaster\bin\Debug\Model.pdb
+C:\Users\13393\Desktop\Simplemaster\Simplemaster\obj\Debug\Simplemaster.csprojResolveAssemblyReference.cache
+C:\Users\13393\Desktop\Simplemaster\Simplemaster\obj\Debug\Simplemaster.csproj.CoreCompileInputs.cache
+C:\Users\13393\Desktop\Simplemaster\Simplemaster\obj\Debug\Simplemaster.csproj.CopyComplete
+C:\Users\13393\Desktop\Simplemaster\Simplemaster\obj\Debug\Simplemaster.dll
+C:\Users\13393\Desktop\Simplemaster\Simplemaster\obj\Debug\Simplemaster.pdb
+C:\Users\zmx87\Desktop\new\Simplemaster\Simplemaster\obj\Debug\Simplemaster.csprojResolveAssemblyReference.cache
+C:\Users\zmx87\Desktop\new\Simplemaster\Simplemaster\bin\Debug\Simplemaster.dll
+C:\Users\zmx87\Desktop\new\Simplemaster\Simplemaster\bin\Debug\Simplemaster.pdb
+C:\Users\zmx87\Desktop\new\Simplemaster\Simplemaster\bin\Debug\DAL.dll
+C:\Users\zmx87\Desktop\new\Simplemaster\Simplemaster\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\zmx87\Desktop\new\Simplemaster\Simplemaster\bin\Debug\Model.dll
+C:\Users\zmx87\Desktop\new\Simplemaster\Simplemaster\bin\Debug\DAL.pdb
+C:\Users\zmx87\Desktop\new\Simplemaster\Simplemaster\bin\Debug\Model.pdb
+C:\Users\zmx87\Desktop\new\Simplemaster\Simplemaster\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\zmx87\Desktop\new\Simplemaster\Simplemaster\obj\Debug\Simplemaster.dll
+C:\Users\zmx87\Desktop\new\Simplemaster\Simplemaster\obj\Debug\Simplemaster.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Debug\Simplemaster.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Debug\Simplemaster.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Debug\DAL.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Debug\Model.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Debug\DAL.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Debug\Model.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\obj\Debug\Simplemaster.csprojResolveAssemblyReference.cache
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\obj\Debug\Simplemaster.dll
+C:\Users\zmx87\Desktop\new\EveryColor\Simplemaster\obj\Debug\Simplemaster.pdb
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Simplemaster\bin\Debug\Simplemaster.dll
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Simplemaster\bin\Debug\Simplemaster.pdb
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Simplemaster\bin\Debug\DAL.dll
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Simplemaster\bin\Debug\Model.dll
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Simplemaster\bin\Debug\DAL.pdb
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Simplemaster\bin\Debug\Model.pdb
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Simplemaster\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Simplemaster\obj\Debug\Simplemaster.csprojResolveAssemblyReference.cache
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Simplemaster\obj\Debug\Simplemaster.dll
+C:\Users\orxie\Documents\Tencent Files\371212933\FileRecv\18-10-15修改 (1)\new\EveryColor\Simplemaster\obj\Debug\Simplemaster.pdb
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\Simplemaster\bin\Debug\Simplemaster.dll
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\Simplemaster\bin\Debug\Simplemaster.pdb
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\Simplemaster\bin\Debug\DAL.dll
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\Simplemaster\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\Simplemaster\bin\Debug\Model.dll
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\Simplemaster\bin\Debug\DAL.pdb
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\Simplemaster\bin\Debug\Model.pdb
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\Simplemaster\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\Simplemaster\obj\Debug\Simplemaster.csprojAssemblyReference.cache
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\Simplemaster\obj\Debug\Simplemaster.csproj.CoreCompileInputs.cache
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\Simplemaster\obj\Debug\Simplemaster.csproj.CopyComplete
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\Simplemaster\obj\Debug\Simplemaster.dll
+C:\Users\13393\Documents\Tencent Files\1339326992\FileRecv\new\new\EveryColor\Simplemaster\obj\Debug\Simplemaster.pdb

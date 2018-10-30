@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Model.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Model.Fakes.ShimLotteryTcketInfo">
+            <summary>Model.LotteryTcketInfo 的填充码类型</summary>
+        </member>
+        <member name="M:Model.Fakes.ShimLotteryTcketInfo.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:Model.Fakes.ShimLotteryTcketInfo.#ctor(Model.LotteryTcketInfo)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:Model.Fakes.ShimLotteryTcketInfo.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:Model.Fakes.ShimLotteryTcketInfo.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.BigRateGet">
+            <summary>设置 LotteryTcketInfo.get_BigRate() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.BigRateSetString">
+            <summary>设置 LotteryTcketInfo.set_BigRate(String value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.Constructor">
+            <summary>设置 LotteryTcketInfo.LotteryTcketInfo() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.DoubleRateGet">
+            <summary>设置 LotteryTcketInfo.get_DoubleRate() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.DoubleRateSetString">
+            <summary>设置 LotteryTcketInfo.set_DoubleRate(String value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.ExplainGet">
+            <summary>设置 LotteryTcketInfo.get_Explain() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.ExplainSetString">
+            <summary>设置 LotteryTcketInfo.set_Explain(String value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.LotteryTcketGet">
+            <summary>设置 LotteryTcketInfo.get_LotteryTcket() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.LotteryTcketIDGet">
+            <summary>设置 LotteryTcketInfo.get_LotteryTcketID() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.LotteryTcketIDSetInt32">
+            <summary>设置 LotteryTcketInfo.set_LotteryTcketID(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.LotteryTcketNmberGet">
+            <summary>设置 LotteryTcketInfo.get_LotteryTcketNmber() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.LotteryTcketNmberSetString">
+            <summary>设置 LotteryTcketInfo.set_LotteryTcketNmber(String value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.LotteryTcketSetString">
+            <summary>设置 LotteryTcketInfo.set_LotteryTcket(String value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.SingleRateGet">
+            <summary>设置 LotteryTcketInfo.get_SingleRate() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.SingleRateSetString">
+            <summary>设置 LotteryTcketInfo.set_SingleRate(String value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.SmallRateGet">
+            <summary>设置 LotteryTcketInfo.get_SmallRate() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.SmallRateSetString">
+            <summary>设置 LotteryTcketInfo.set_SmallRate(String value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.TimerGet">
+            <summary>设置 LotteryTcketInfo.get_Timer() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.TimerSetString">
+            <summary>设置 LotteryTcketInfo.set_Timer(String value) 的 填充码</summary>
+        </member>
+        <member name="T:Model.Fakes.ShimLotteryTcketInfo.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.BigRateGet">
+            <summary>设置 LotteryTcketInfo.get_BigRate() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.BigRateSetString">
+            <summary>设置 LotteryTcketInfo.set_BigRate(String value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.DoubleRateGet">
+            <summary>设置 LotteryTcketInfo.get_DoubleRate() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.DoubleRateSetString">
+            <summary>设置 LotteryTcketInfo.set_DoubleRate(String value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.ExplainGet">
+            <summary>设置 LotteryTcketInfo.get_Explain() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.ExplainSetString">
+            <summary>设置 LotteryTcketInfo.set_Explain(String value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.LotteryTcketGet">
+            <summary>设置 LotteryTcketInfo.get_LotteryTcket() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.LotteryTcketIDGet">
+            <summary>设置 LotteryTcketInfo.get_LotteryTcketID() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.LotteryTcketIDSetInt32">
+            <summary>设置 LotteryTcketInfo.set_LotteryTcketID(Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.LotteryTcketNmberGet">
+            <summary>设置 LotteryTcketInfo.get_LotteryTcketNmber() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.LotteryTcketNmberSetString">
+            <summary>设置 LotteryTcketInfo.set_LotteryTcketNmber(String value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.LotteryTcketSetString">
+            <summary>设置 LotteryTcketInfo.set_LotteryTcket(String value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.SingleRateGet">
+            <summary>设置 LotteryTcketInfo.get_SingleRate() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.SingleRateSetString">
+            <summary>设置 LotteryTcketInfo.set_SingleRate(String value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.SmallRateGet">
+            <summary>设置 LotteryTcketInfo.get_SmallRate() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.SmallRateSetString">
+            <summary>设置 LotteryTcketInfo.set_SmallRate(String value) 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.TimerGet">
+            <summary>设置 LotteryTcketInfo.get_Timer() 的 填充码</summary>
+        </member>
+        <member name="P:Model.Fakes.ShimLotteryTcketInfo.AllInstances.TimerSetString">
+            <summary>设置 LotteryTcketInfo.set_Timer(String value) 的 填充码</summary>
+        </member>
+        <member name="T:Model.Fakes.StubLotteryTcketInfo">
+            <summary>Model.LotteryTcketInfo 的存根类型</summary>
+        </member>
+        <member name="M:Model.Fakes.StubLotteryTcketInfo.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:Model.Fakes.StubLotteryTcketInfo.InitializeStub">
+            <summary>初始化 type StubLotteryTcketInfo 的新实例</summary>
+        </member>
+        <member name="P:Model.Fakes.StubLotteryTcketInfo.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:Model.Fakes.StubLotteryTcketInfo.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:Model.Fakes.StubLotteryTcketInfo.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+    </members>
+</doc>

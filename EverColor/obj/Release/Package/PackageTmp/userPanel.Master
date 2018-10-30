@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="userPanel.master.cs" Inherits="Demo.userPanel1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/common.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <nav class="navbar navbar-default no-radius bg-color no-margin" style="border-bottom:1px solid #000;">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand text-center" style="color:#fff;" href="#">用户后台</a>
+            </div>
+            <%--右侧--%>
+            <div class="navbar-right">
+                <a href="javascript:void(0);" class="nav-center dropdown" style="padding-right:15px;">测试用户名</a>
+            </div>
+        </div>
+    </nav>
+    <div class="bg-color" style="height:100%;width:20%;" id="nav-info">
+        <ul class="nav nav-pills nav-stacked">
+            <li role="presentation" class="active"><a href="#">首页</a></li>
+            <li role="presentation"><a href="#">账户信息</a></li>
+            <li role="presentation"><a href="#">历史投注</a></li>
+        </ul>
+    </div>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

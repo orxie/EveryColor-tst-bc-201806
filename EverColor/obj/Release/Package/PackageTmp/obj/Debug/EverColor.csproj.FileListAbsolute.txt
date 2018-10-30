@@ -1,0 +1,151 @@
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\WebApplication1.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\WebApplication1.pdb
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\DotNetOpenAuth.Core.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\EntityFramework.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\Wesley.Crawler.SimpleCrawler.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\Wesley.Crawler.SimpleCrawler.pdb
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\EntityFramework.xml
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\DotNetOpenAuth.Core.xml
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\zh-Hans\System.Web.Providers.resources.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\zh-Hans\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\obj\Debug\EverColor.csprojResolveAssemblyReference.cache
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\orxie\Desktop\Simplemaster\Simple-Web-Crawler-master\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\大学期间项目\Every Color\EverColor\bin\WebApplication1.dll.config
+D:\大学期间项目\Every Color\EverColor\bin\WebApplication1.dll
+D:\大学期间项目\Every Color\EverColor\bin\WebApplication1.pdb
+D:\大学期间项目\Every Color\EverColor\bin\Wesley.Crawler.SimpleCrawler.dll
+D:\大学期间项目\Every Color\EverColor\bin\Wesley.Crawler.SimpleCrawler.pdb
+D:\大学期间项目\Every Color\EverColor\obj\Debug\EverColor.csprojResolveAssemblyReference.cache
+D:\大学期间项目\Every Color\EverColor\obj\Debug\WebApplication1.dll
+D:\大学期间项目\Every Color\EverColor\obj\Debug\WebApplication1.pdb
+D:\大学期间项目\Every Color\EverColor\bin\BLL.dll
+D:\大学期间项目\Every Color\EverColor\bin\Model.dll
+D:\大学期间项目\Every Color\EverColor\bin\DAL.dll
+D:\大学期间项目\Every Color\EverColor\bin\BLL.pdb
+D:\大学期间项目\Every Color\EverColor\bin\Model.pdb
+D:\大学期间项目\Every Color\EverColor\bin\DAL.pdb
+C:\Users\13393\Desktop\Every Color\EverColor\bin\WebApplication1.dll.config
+C:\Users\13393\Desktop\Every Color\EverColor\bin\WebApplication1.dll
+C:\Users\13393\Desktop\Every Color\EverColor\bin\WebApplication1.pdb
+C:\Users\13393\Desktop\Every Color\EverColor\bin\BLL.dll
+C:\Users\13393\Desktop\Every Color\EverColor\bin\Model.dll
+C:\Users\13393\Desktop\Every Color\EverColor\bin\Wesley.Crawler.SimpleCrawler.dll
+C:\Users\13393\Desktop\Every Color\EverColor\bin\DAL.dll
+C:\Users\13393\Desktop\Every Color\EverColor\bin\BLL.pdb
+C:\Users\13393\Desktop\Every Color\EverColor\bin\Model.pdb
+C:\Users\13393\Desktop\Every Color\EverColor\bin\Wesley.Crawler.SimpleCrawler.pdb
+C:\Users\13393\Desktop\Every Color\EverColor\bin\Wesley.Crawler.SimpleCrawler.dll.config
+C:\Users\13393\Desktop\Every Color\EverColor\bin\DAL.pdb
+C:\Users\13393\Desktop\Every Color\EverColor\obj\Debug\EverColor.csprojResolveAssemblyReference.cache
+C:\Users\13393\Desktop\Every Color\EverColor\obj\Debug\EverColor.csproj.CoreCompileInputs.cache
+C:\Users\13393\Desktop\Every Color\EverColor\obj\Debug\EverColor.csproj.CopyComplete
+C:\Users\13393\Desktop\Every Color\EverColor\obj\Debug\WebApplication1.dll
+C:\Users\13393\Desktop\Every Color\EverColor\obj\Debug\WebApplication1.pdb
+C:\Users\orxie\Desktop\Every Color\EverColor\bin\WebApplication1.dll.config
+C:\Users\orxie\Desktop\Every Color\EverColor\bin\WebApplication1.dll
+C:\Users\orxie\Desktop\Every Color\EverColor\bin\WebApplication1.pdb
+C:\Users\orxie\Desktop\Every Color\EverColor\bin\BLL.dll
+C:\Users\orxie\Desktop\Every Color\EverColor\bin\Model.dll
+C:\Users\orxie\Desktop\Every Color\EverColor\bin\Wesley.Crawler.SimpleCrawler.dll
+C:\Users\orxie\Desktop\Every Color\EverColor\bin\DAL.dll
+C:\Users\orxie\Desktop\Every Color\EverColor\bin\BLL.pdb
+C:\Users\orxie\Desktop\Every Color\EverColor\bin\Model.pdb
+C:\Users\orxie\Desktop\Every Color\EverColor\bin\Wesley.Crawler.SimpleCrawler.pdb
+C:\Users\orxie\Desktop\Every Color\EverColor\bin\DAL.pdb
+C:\Users\orxie\Desktop\Every Color\EverColor\obj\Debug\EverColor.csprojResolveAssemblyReference.cache
+C:\Users\orxie\Desktop\Every Color\EverColor\obj\Debug\WebApplication1.dll
+C:\Users\orxie\Desktop\Every Color\EverColor\obj\Debug\WebApplication1.pdb
+C:\Users\13393\Desktop\Every Color (1)\EverColor\bin\WebApplication1.dll.config
+C:\Users\13393\Desktop\Every Color (1)\EverColor\bin\WebApplication1.dll
+C:\Users\13393\Desktop\Every Color (1)\EverColor\bin\WebApplication1.pdb
+C:\Users\13393\Desktop\Every Color (1)\EverColor\bin\BLL.dll
+C:\Users\13393\Desktop\Every Color (1)\EverColor\bin\Model.dll
+C:\Users\13393\Desktop\Every Color (1)\EverColor\bin\DAL.dll
+C:\Users\13393\Desktop\Every Color (1)\EverColor\bin\BLL.pdb
+C:\Users\13393\Desktop\Every Color (1)\EverColor\bin\Model.pdb
+C:\Users\13393\Desktop\Every Color (1)\EverColor\bin\DAL.pdb
+C:\Users\13393\Desktop\Every Color (1)\EverColor\obj\Debug\EverColor.csprojResolveAssemblyReference.cache
+C:\Users\13393\Desktop\Every Color (1)\EverColor\obj\Debug\EverColor.csproj.CoreCompileInputs.cache
+C:\Users\13393\Desktop\Every Color (1)\EverColor\obj\Debug\EverColor.csproj.CopyComplete
+C:\Users\13393\Desktop\Every Color (1)\EverColor\obj\Debug\WebApplication1.dll
+C:\Users\13393\Desktop\Every Color (1)\EverColor\obj\Debug\WebApplication1.pdb
+C:\Users\13393\Desktop\Every Color (1)\EverColor\bin\Simplemaster.dll
+C:\Users\13393\Desktop\Every Color (1)\EverColor\bin\Simplemaster.pdb
+C:\Users\13393\Desktop\EveryColor\EverColor\bin\WebApplication1.dll.config
+C:\Users\13393\Desktop\EveryColor\EverColor\bin\WebApplication1.dll
+C:\Users\13393\Desktop\EveryColor\EverColor\bin\WebApplication1.pdb
+C:\Users\13393\Desktop\EveryColor\EverColor\bin\BLL.dll
+C:\Users\13393\Desktop\EveryColor\EverColor\bin\Model.dll
+C:\Users\13393\Desktop\EveryColor\EverColor\bin\Simplemaster.dll
+C:\Users\13393\Desktop\EveryColor\EverColor\bin\DAL.dll
+C:\Users\13393\Desktop\EveryColor\EverColor\bin\BLL.pdb
+C:\Users\13393\Desktop\EveryColor\EverColor\bin\Model.pdb
+C:\Users\13393\Desktop\EveryColor\EverColor\bin\Simplemaster.pdb
+C:\Users\13393\Desktop\EveryColor\EverColor\bin\DAL.pdb
+C:\Users\13393\Desktop\EveryColor\EverColor\obj\Debug\EverColor.csprojResolveAssemblyReference.cache
+C:\Users\13393\Desktop\EveryColor\EverColor\obj\Debug\EverColor.csproj.CoreCompileInputs.cache
+C:\Users\13393\Desktop\EveryColor\EverColor\obj\Debug\EverColor.csproj.CopyComplete
+C:\Users\13393\Desktop\EveryColor\EverColor\obj\Debug\WebApplication1.dll
+C:\Users\13393\Desktop\EveryColor\EverColor\obj\Debug\WebApplication1.pdb
+C:\Users\orxie\Desktop\EveryColor\EverColor\bin\WebApplication1.dll.config
+C:\Users\orxie\Desktop\EveryColor\EverColor\bin\WebApplication1.dll
+C:\Users\orxie\Desktop\EveryColor\EverColor\bin\WebApplication1.pdb
+C:\Users\orxie\Desktop\EveryColor\EverColor\bin\BLL.dll
+C:\Users\orxie\Desktop\EveryColor\EverColor\bin\Model.dll
+C:\Users\orxie\Desktop\EveryColor\EverColor\bin\DAL.dll
+C:\Users\orxie\Desktop\EveryColor\EverColor\bin\BLL.pdb
+C:\Users\orxie\Desktop\EveryColor\EverColor\bin\Model.pdb
+C:\Users\orxie\Desktop\EveryColor\EverColor\bin\DAL.pdb
+C:\Users\orxie\Desktop\EveryColor\EverColor\obj\Debug\WebApplication1.dll
+C:\Users\orxie\Desktop\EveryColor\EverColor\obj\Debug\WebApplication1.pdb
+C:\Users\orxie\Desktop\EveryColor\EverColor\obj\Debug\EverColor.csprojResolveAssemblyReference.cache
+C:\Users\13393\Desktop\new\EveryColor\EverColor\obj\Debug\EverColor.csprojAssemblyReference.cache
+C:\Users\13393\Desktop\new\EveryColor\EverColor\obj\Debug\EverColor.csproj.CoreCompileInputs.cache
+C:\Users\13393\Desktop\new\EveryColor\EverColor\obj\Debug\WebApplication1.dll
+C:\Users\13393\Desktop\new\EveryColor\EverColor\obj\Debug\WebApplication1.pdb
+C:\Users\13393\Desktop\new\EveryColor\EverColor\bin\WebApplication1.dll.config
+C:\Users\13393\Desktop\new\EveryColor\EverColor\bin\WebApplication1.dll
+C:\Users\13393\Desktop\new\EveryColor\EverColor\bin\WebApplication1.pdb
+C:\Users\13393\Desktop\new\EveryColor\EverColor\bin\BLL.dll
+C:\Users\13393\Desktop\new\EveryColor\EverColor\bin\Model.dll
+C:\Users\13393\Desktop\new\EveryColor\EverColor\bin\DAL.dll
+C:\Users\13393\Desktop\new\EveryColor\EverColor\bin\BLL.pdb
+C:\Users\13393\Desktop\new\EveryColor\EverColor\bin\Model.pdb
+C:\Users\13393\Desktop\new\EveryColor\EverColor\bin\DAL.pdb
+C:\Users\13393\Desktop\new\EveryColor\EverColor\obj\Debug\EverColor.csproj.CopyComplete
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\obj\Debug\EverColor.csprojResolveAssemblyReference.cache
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\WebApplication1.dll.config
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\WebApplication1.dll
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\WebApplication1.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\BLL.dll
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\Model.dll
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\Simplemaster.dll
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\DAL.dll
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\BLL.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\Model.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\Simplemaster.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\bin\DAL.pdb
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\obj\Debug\WebApplication1.dll
+C:\Users\zmx87\Desktop\new\EveryColor\EverColor\obj\Debug\WebApplication1.pdb
